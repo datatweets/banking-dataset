@@ -1,0 +1,6 @@
+TransactionID,Amount,Date,Category
+1,100.00,2023-01-01,Groceries
+2,50.00,2023-01-02,Utilities
+3,200.00,2023-01-03,Entertainment
+4,75.00,2023-01-04,Transportation
+5,125.00,2023-01-05,Health
